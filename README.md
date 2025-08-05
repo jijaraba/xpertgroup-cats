@@ -69,7 +69,7 @@ La aplicación utiliza [TheCatAPI](https://thecatapi.com/) con los siguientes en
 - `GET /images/search` - Obtener imágenes por raza
 - `POST /votes` - Votar por una imagen
 
-**API Key**: `live_JBT0Ah0Nt12iyl2IpjQVLDWjcLk0GQwf4zI9wBMfmfejKmcC31mOJp4yJz5TsOUP`
+**API Key**: ``
 
 ## Instalación y Ejecución
 
